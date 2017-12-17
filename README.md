@@ -1,2 +1,2 @@
 # PanelData-ArellanoBond
-A small Panel Data analysis of CO2 emissions on the effects of CO2 with STATA
+A small Panel Data analysis of CO2 emissions with STATA (Arellano & Bond estimator)
